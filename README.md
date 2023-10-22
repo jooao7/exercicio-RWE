@@ -1,8 +1,6 @@
-# Login & Registration + UPLOAD Profile Picture Form In PHP And MySQL 2023
+# Registro, Login e upload de foto de perfil em PHP, MySQL e XAMPP
 
-version: 1.0.0
-
-## TECHS
+## Tecnologias utilizadas
 
 1. PHP 8.2.11
 2. XAMPP versão 8.2.4
@@ -13,12 +11,12 @@ version: 1.0.0
 
 ## Passo a passo:
 
--> Instale PHP 8.2.11
--> Instale o XAMPP versão 8.2.4
---> Inicie o XAMPP selecionando Apache & MySQL
+-> Instale PHP 8.2.11 <br>
+-> Instale o XAMPP versão 8.2.4 <br>
+--> Inicie o XAMPP selecionando Apache & MySQL <br>
 --> http://localhost/exercRWE/home.php
 
 # Trabalho em Progresso
 
-->Adicionar redes sociais
-->Atualização da imagem na opção de editar perfil
+->Adicionar redes sociais <br>
+->Atualização da imagem na opção de editar perfil <br>
