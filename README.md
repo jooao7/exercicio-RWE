@@ -14,9 +14,13 @@
 -> Instale PHP 8.2.11 <br>
 -> Instale o XAMPP versão 8.2.4 <br>
 --> Inicie o XAMPP selecionando Apache & MySQL <br>
---> http://localhost/exercRWE/home.php
+--> Acessar http://localhost/exercRWE/home.php <br>
+--> Criar conta, checar as validações de formulário <br>
+--> Fazer login e editar perfil. <br>
+
 
 # Trabalho em Progresso
 
 ->Adicionar redes sociais <br>
 ->Atualização da imagem na opção de editar perfil <br>
+
