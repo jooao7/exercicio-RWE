@@ -1,26 +1,37 @@
-# Registro, Login e upload de foto de perfil em PHP, MySQL e XAMPP
+# Sistema de Registro, Login e Upload de Foto de Perfil
+Desafio proposto durante um processo seletivo para uma vaga. 
+Este projeto é um sistema simples desenvolvido em PHP, MySQL, com o uso do XAMPP, que permite aos usuários se registrar, fazer login e atualizar suas fotos de perfil.
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 
-1. PHP 8.2.11
-2. XAMPP versão 8.2.4
-3. MYSQL
-4. BOOTSTRAP 5
-5. HTML5
-6. CSS3
+- **PHP** 8.2.11
+- **XAMPP** 8.2.4
+- **MySQL**
+- **Bootstrap** 5
+- **HTML5**
+- **CSS3**
 
-## Passo a passo:
+## Configuração e Execução
 
--> Instale PHP 8.2.11 <br>
--> Instale o XAMPP versão 8.2.4 <br>
---> Inicie o XAMPP selecionando Apache & MySQL <br>
---> Acessar http://localhost/exercRWE/home.php <br>
---> Criar conta, checar as validações de formulário <br>
---> Fazer login e editar perfil. <br>
+### Pré-requisitos
 
+Certifique-se de ter o PHP 8.2.11 e o XAMPP 8.2.4 instalados em seu sistema.
 
-# Trabalho em Progresso
+### Passos para Execução
 
-->Adicionar redes sociais <br>
-->Atualização da imagem na opção de editar perfil <br>
+1. **Instalação do PHP e XAMPP**:
+   - Faça o download e instale o PHP 8.2.11 e o XAMPP versão 8.2.4.
+2. **Configuração do XAMPP**:
+   - Inicie o XAMPP e certifique-se de que os módulos Apache e MySQL estejam em execução.
+3. **Acesso ao Projeto**:
+   - Abra um navegador e acesse `http://localhost/exercRWE/home.php` para iniciar a aplicação.
+4. **Registro e Login**:
+   - Crie uma nova conta verificando as validações do formulário.
+   - Faça login com suas credenciais.
+   - Acesse a opção de editar perfil para atualizar a sua foto de perfil.
+
+## Funcionalidades em Desenvolvimento
+
+- Adicionar integração com redes sociais.
+- Aprimorar a funcionalidade de atualização de imagem no perfil.
 
